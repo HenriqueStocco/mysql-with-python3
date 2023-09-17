@@ -1,0 +1,14 @@
+venv
+.env
+.venv
+dotenv.py
+env.bak/
+venv.bak/
+.vscode
+sBs_dockerContainer-up.txt
+README.md
+mysql
+.vscode
+__init__.py
+connection.py
+__pycache__
