@@ -18,12 +18,6 @@
 - Mudar as variveis de ambiente em .env-exemple
 - Criar um ambiente virtual
 - Instalar as libs necessarias
-- Executar um docker-compose.yml
-
-# Comando Docker
-```docker
-$ docker-compose up
-```
 
 # Instalar libs do projeto
 ```python
